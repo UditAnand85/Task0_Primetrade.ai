@@ -16,6 +16,7 @@ This project presents an analysis of trading behavior under different market sen
 ## Author
 
 **Name:** Udit Anand
+**Email:** uditanand28@gmail.com
 
 ---
 
@@ -56,4 +57,4 @@ python main.py
 
 ## Insights
 
-All detailed insights, analysis, and strategy recommendations are available in the **Insights PDF file** included in this project.
+All detailed insights, analysis, and strategy recommendations are available in the "Trading Behaviour Analysis Report" included in this project.
