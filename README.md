@@ -24,7 +24,7 @@ This project presents an analysis of trading behavior under different market sen
 1. Clone the repository:
 
 ```id="y1cffr"
-git clone <https://github.com/UditAnand85/Task0_Primetrade.ai>
+git clone https://github.com/UditAnand85/Task0_Primetrade.ai
 cd Task0_Primetrade.ai
 ```
 
